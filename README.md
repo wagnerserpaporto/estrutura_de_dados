@@ -1,2 +1,5 @@
 # estrutura_de_dados
-Atividades
+Todas as atividadades estão neste repositorio 
+
+UC24101559 
+Wagner Serpa Porto
